@@ -1,0 +1,10 @@
+C:\Users\Professional\source\repos\5 laba\5 laba\bin\Debug\5 laba.exe.config
+C:\Users\Professional\source\repos\5 laba\5 laba\bin\Debug\5 laba.exe
+C:\Users\Professional\source\repos\5 laba\5 laba\bin\Debug\5 laba.pdb
+C:\Users\Professional\source\repos\5 laba\5 laba\obj\Debug\5 laba.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\5 laba\5 laba\obj\Debug\_5_laba.Form1.resources
+C:\Users\Professional\source\repos\5 laba\5 laba\obj\Debug\_5_laba.Properties.Resources.resources
+C:\Users\Professional\source\repos\5 laba\5 laba\obj\Debug\5 laba.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\5 laba\5 laba\obj\Debug\5 laba.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\5 laba\5 laba\obj\Debug\5 laba.exe
+C:\Users\Professional\source\repos\5 laba\5 laba\obj\Debug\5 laba.pdb
